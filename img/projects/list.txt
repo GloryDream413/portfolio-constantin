@@ -1,0 +1,104 @@
+=== EVM ===
+
+1. staking
+Title: Token Staking Platform
+Description : EVM token staking platforms allow users to earn rewards by staking their cryptocurrency tokens.
+Link: https://eth-staking-gold.vercel.app/
+
+2. Presale
+Title: Digi Token Presale
+Description: Presale platforms enable token launches with features like whitelisting and timed sales.
+Link: https://digi-presale-blue.vercel.app
+
+3. DEX
+Title: Seven DEX
+Description: This platform make users possible to swap any kinds of EVM tokens.
+Link: https://seven-finance-kappa.vercel.app/
+
+4. Launchpad
+Title: EVM Launchpad
+Description: This platform allow users to do first buy with their wallet and get more profit.
+Link: https://flash-laucher.vercel.app/
+
+5. NFT staking
+Title: NFT Staking Platform
+Description: EVM NFT staking platforms let users earn rewards by staking their NFTs.
+Link: none
+
+6. PancakeSwap
+Title: Forked PancakeSwap
+Description: This is a forked PancakeSwapV3 and users can swap any tokes here.
+
+7. CEX
+Title: Vertex CEX
+Description: Centralized Exchange Platform for Ethereum
+Link: https://vertex-perpetual-frontend.vercel.app
+
+
+
+=== Solana ===
+8. Presale
+Title: Solana Presale
+Description: This platforms enable meme token launches with features like whitelisting and timed sales.
+Link: https://solana-presale-frontend.vercel.app/
+
+9. Launchpad
+Title: Solana Launchpad - mufasa
+Description: This launchpad allow users to do first buy with their wallets make profit with this.
+
+10. LandingPage
+Title: BVB Landingpage
+Description: Landing page for token launch
+Link: https://magicalsola.framer.website/
+
+11. Staking
+Title: Solana NFT Staking
+Description: This NFT platform earns reward by staking NFTs. Anyone can get profit.
+
+12. NFT Marketplace
+Title: NFT Marketplace
+Description: This marketplace is a nft trading platform for everyone
+
+13.Pump.fun
+Title: Forked Pump.fun
+Description: This is a Solana-based marketplace that allows users to easily create and distribute their own meme tokens.
+
+14. Betting
+Title: SOL Betting
+Description: Users can earn so much profit with betting SOLs here.
+Link: https://hash-jack-client.vercel.app
+
+
+=== Bitcon ===
+
+15. Title: Rune Token Launch
+Description: This platform make users possible to launch their own rune token.
+Link: https://rune-token-launchpad.vercel.app/token
+
+
+=== Bot ===
+16. Volumebot
+ Title: Mufasa-Volume-Bot
+ Description: This is a Mufasa Volume bot with fantasy interface.
+ Link: https://mufasa-volume-bot.vercel.app/
+
+17. VolumeBot
+ Title: Telegram Volume Bot
+ Description: This volume bot can increase volume to 1M in 5min with 20SOL.
+
+
+=== Gaming ===
+18. DogRacing
+Title: DogRacing
+Description: This is a betting game with dogs' racing.
+Link: https://dog-racing-ethereum.vercel.app/
+
+19. Cookies
+Title: Lizard Cookie
+Description: Earn your reward with just clicking.
+Link: https://lizard-cookie-game.vercel.app/
+
+20. mechaz
+Title: Mechaz Crypto Game
+Description: This funny game makes users to get reward with crypto.
+Link: https://mechaz.netlify.app/
